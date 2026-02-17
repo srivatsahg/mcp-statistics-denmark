@@ -4,6 +4,18 @@ A hobbyist project to create an **MCP (Model Context Protocol) Server** that wra
 
 ---
 
+# Basic Architecture Diagram 
+
+
++---------------------+   MCP     .-----------------.         +---------------------+
+|                     | <----->   |                 | <-----> |                     |
+|      AI Client      |  Protocol |   MCP Server    |  Web    |   https://dst.dk    |
+|                     |           |                 |  API    |                     |
++---------------------+           '-----------------'         +---------------------+
+
+                                 
+---
+
 ## Features
 
 | Tool | Description |
