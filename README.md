@@ -1,6 +1,6 @@
 # MCP Server for Statistics Denmark
 
-An **MCP (Model Context Protocol) Server** that wraps the [Statistics Denmark (Danmarks Statistik) StatBank API](https://www.dst.dk/en/Statistik/hjaelp-til-statistikbanken/api), giving AI assistants direct access to Danish statistical data — including taxes, income, population, employment, and more.
+A hobbyist project to create an **MCP (Model Context Protocol) Server** that wraps the [Statistics Denmark (Danmarks Statistik) StatBank API](https://www.dst.dk/en/Statistik/hjaelp-til-statistikbanken/api), giving AI assistants direct access to Danish statistical data — including taxes, income, population, employment, and more.
 
 ---
 
